@@ -1,0 +1,13 @@
+2024-12-09 15:21:48,879 - INFO: E-commerce Product Tracker Starting...
+2024-12-09 15:21:48,880 - INFO: ====== WebDriver manager ======
+2024-12-09 15:21:51,465 - INFO: Get LATEST chromedriver version for google-chrome
+2024-12-09 15:21:51,539 - INFO: Get LATEST chromedriver version for google-chrome
+2024-12-09 15:21:51,599 - INFO: Driver [C:\Users\nusic\.wdm\drivers\chromedriver\win64\131.0.6778.87\chromedriver-win32/chromedriver.exe] found in cache
+2024-12-09 15:21:53,242 - INFO: Scraping Amazon for laptops
+2024-12-09 15:22:22,884 - INFO: Scraping Amazon for headphones
+2024-12-09 15:22:37,910 - INFO: Scraping BestBuy for laptops
+2024-12-09 15:23:10,542 - INFO: Scraping BestBuy for headphones
+2024-12-09 15:23:36,031 - INFO: Saved 76 products to c:\Users\nusic\OneDrive\Documents\DBU-Final-Project.1\logs\products_20241209_152336.csv
+2024-12-09 15:23:38,886 - INFO: Starting data processing...
+2024-12-09 15:23:43,012 - INFO: Processed data saved to c:\Users\nusic\OneDrive\Documents\DBU-Final-Project.1\processed_data\processed_data_20241209_152343.csv
+2024-12-09 15:23:43,730 - INFO: Data analysis completed. Results saved in analysis output directory.
