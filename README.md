@@ -16,7 +16,7 @@ Data Visualization: Generates boxplots and bar graphs for price distribution and
 
 Automation: Schedules periodic scraping and analysis using the schedule library.
 
-Tools and Technologies
+## Tools and Technologies
 
 Programming Language: Python
 
